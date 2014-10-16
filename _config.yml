@@ -36,7 +36,7 @@ navigationLinks:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest Lima <typeout> 2014"
 eventDate: "08 Noviembre, 2014"
-typeoutTextValues: '"", "Conferencia", "Talleres"'
+typeoutTextValues: '"", "OK GOOGLE", "Lima DevFest"'
 typeoutFallback: "Season"
 heroButtons:
  - {permalink: "/#tickets", text: "Obten tu entrada"}
